@@ -1,0 +1,366 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+#main {
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+.nav-item {
+    margin-left: 25px;
+}
+
+#section1 {
+    background-image: url("./../images/background\ picture.jpg");
+    height: 100vh;
+    /* margin-left: 0px; */
+    /* width: 100%; */
+    background-repeat: no-repeat, repeat;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#broadmoor-logo {
+    width: 200px;
+}
+
+/* 
+#analytics-text {
+    color: white;
+    margin-top: 30px;
+    font-family: Poppins, sans-serif;
+    height: 70px;
+    width: 30em;
+} */
+
+/* #firstdiv{
+    width:12.5%;
+    height: 250px;
+} */
+/* #seconddiv{
+    width: 75%;
+    height: 250px;
+} */
+/* #thirddiv{
+    height: 250px;
+    width: 12.5%;
+} */
+/* #address:hover{
+    color: rgb(125, 207, 2);
+} */
+#section2 {
+    margin-top: 60px;
+    width: 100%;
+    /* border: 2px solid chartreuse; */
+}
+
+#part1 {
+    /* border: 3px solid brown; */
+    /* background-color: seagreen; */
+    width: 17%;
+    height: 100px;
+}
+
+#part2 {
+    width: 66%;
+}
+
+#part3 {
+    /* border: 3px solid brown; */
+    /* background-color: seagreen; */
+    width: 17%;
+    height: 100px;
+}
+
+#detailed-para {
+    font-size: 19.5px;
+}
+
+#founder-sign {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+#founder-of {
+    text-align: center;
+}
+
+#section3 {
+    height: 550px;
+    /* border: 2px solid brown; */
+}
+
+#section3-1 {
+    height: 200px;
+}
+
+/* #section3-2{ */
+/* width: 60%; */
+/* } */
+#section3-3 {
+    /* width: 19%; */
+    height: 200px;
+    /* margin-right: -20px; */
+    /* background-color: rgb(255, 127, 212); */
+}
+
+#about-us {
+    display: flex;
+    /* border: 2px solid blue; */
+    padding-left: 10px;
+}
+
+#line {
+    color: rgb(135, 226, 0);
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 900;
+}
+
+#who-are-we {
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#img-txt {
+    /* border: 2px solid chartreuse; */
+    margin-top: 80px;
+}
+
+#about-broadmoor {
+    /* margin-left: 50px; */
+    font-family: Poppins, sans-serif;
+    font: optional;
+    width: 480px;
+    /* border: 2px solid blue; */
+    line-height: 30px;
+    font-size: 14px;
+}
+
+#about-broadmoor-para {
+    /* border: 2px solid sienna; */
+    width: 350px;
+    text-align: left;
+}
+
+#image-tablet {
+    /* margin-left: 100px; */
+    background-image: url("./../images/Fotolia_113879311_S.f2e8203a.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 350px;  real width*/
+    width: 400px;
+    height: 300px;
+}
+
+li {
+    font-weight: bold;
+}
+
+#navbar {
+    /* border: 2px solid violet; */
+    padding: 15px 70px 15px 70px;
+}
+
+#navv {
+    background-color: white;
+    /* border: 2px solid firebrick; */
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+#first {
+    height: 200px;
+    /* background-color: blue; */
+}
+
+#third {
+    height: 200px;
+    /* background-color: chartreuse; */
+}
+
+#intro {
+    margin-top: 80px;
+}
+
+#head {
+    letter-spacing: -2px;
+    /* border: 2px solid hotpink; */
+    font-size: 50px;
+    font-weight: bold;
+    width: 12em;
+    color: white;
+    font-family: Oswald, sans-serif;
+    line-height: 80px
+}
+
+#paragra {
+    margin-top: 15px;
+    /* border: 2px solid navy; */
+    color: white;
+    font-size: 15px !important;
+    line-height: 20px;
+    /* font-family: Poppins,sans-serif; */
+}
+
+.card-123 {
+    /* border: 2px solid gold; */
+    height: 500px;
+    width: 200px;
+}
+
+.card-heading {
+    display: flex;
+}
+
+.num {
+    font-size: 35px;
+    color: gray;
+    font-weight: bold;
+}
+
+.c-head {
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    text-align: justify;
+    /* border: 1px solid crimson; */
+}
+
+.c-head:hover {
+    color: rgb(135, 226, 0);
+    cursor: pointer;
+}
+
+.s-line {
+    color: rgb(135, 226, 0);
+    font-size: 11px;
+    /* margin-top: 30px; */
+    font-weight: 900;
+}
+
+.card-para {
+    color: gray;
+}
+
+#cards {
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+#what-do {
+    display: flex;
+    /* border: 2px solid blue; */
+    padding-left: 16em;
+}
+
+#down-line {
+    color: rgb(135, 226, 0);
+    font-size: 20px;
+    /* margin-top: 30px; */
+    font-weight: 900;
+}
+
+#what-we-do {
+    margin-left: 20px;
+    text-align: center;
+    /* margin-top: 30px; */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#section-4 {
+    padding-top: 20px;
+}
+
+
+
+
+
+
+/* sliders */
+
+
+.container {
+    padding: 40px 50px 30px 50px;
+    /* justify-content: space-around; */
+    width: 70%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.card {
+    margin-left: 10px;
+    width: 32%;
+    border: 1px solid rgb(159, 159, 159);
+    border-radius: 0%;
+    padding: 30px 10px 30px 10px;
+    /* height: 80%; */
+    float: left;
+  }
+
+  .dots {
+    margin: 20px auto;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #fa0000;
+    margin: 5px;
+  }
+
+  .dot.active {
+    background-color: #ff00e1;
+  }
+
+  #client{
+    display: flex;
+    /* border: 2px solid blue; */
+    padding-left: 16em; 
+  }
+  #client-line{
+    margin-top: 25px;
+    margin-left: 20px;
+    color: rgb(135, 226, 0);
+    font-size: 20px;
+    /* margin-top: 30px; */
+    font-weight: 900;
+  }
+  #client-partners{
+    margin-top: 25px;
+    margin-left: 20px;
+    text-align: center;
+    /* margin-top: 30px; */
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  #section5-1{
+    border: 2px solid seagreen;
+    /* width: 30px; */
+    height: 150px;
+  }
+  #data{
+    height: 150px;
+    border: 2px solid rgb(255, 0, 162);
+  }
+  #section5-2{
+    border: 2px solid seagreen;
+    /* width: 30px; */
+    height: 150px;
+  }
